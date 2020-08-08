@@ -45,7 +45,7 @@ export default ({ data }) => {
         <hr className="my-3 w-25" />
         <div className="d-md-inline-flex icons-container">
           <a
-            href="https://www.github.com"
+            href="https://github.com/danwin007"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -56,7 +56,7 @@ export default ({ data }) => {
             />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/danielknguyen/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -66,7 +66,7 @@ export default ({ data }) => {
               title="LinkedIn"
             />
           </a>
-          <a
+          {/* <a
             href="https://www.freecodecamp.org"
             target="_blank"
             rel="noopener noreferrer"
@@ -76,8 +76,8 @@ export default ({ data }) => {
               className="icons fcc"
               title="FreeCodeCamp"
             />
-          </a>
-          <a
+          </a> */}
+          {/* <a
             href="https://www.hackerrank.com/"
             target="_blank"
             rel="noopener noreferrer"
@@ -87,9 +87,9 @@ export default ({ data }) => {
               className="icons hr"
               title="Hackerrank"
             />
-          </a>
+          </a> */}
           <a
-            href="mailto:johndoe@gmail.com"
+            href="mailto:danguyenuw@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -99,7 +99,9 @@ export default ({ data }) => {
               title="e-mail"
             />
           </a>
-          <a href="../../resume.pdf" target="_blank" download>
+          {/* reactivate the code below to allow folks to DL rezzie. need to find way to upload rezzie first */}
+          {/* <a href="../../resume.pdf" target="_blank" download> */}
+          <a href="/resume" target="_blank">
             <FontAwesomeIcon
               icon={["fas", "file-alt"]}
               className="icons file"

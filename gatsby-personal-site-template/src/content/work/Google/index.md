@@ -1,20 +1,15 @@
 ---
-company: "Google"
-location: "San Francisco, CA"
-position: "Software Engineering Intern"
-tags: ["React.js", "Webpack", "Docker", "Ruby"]
-startDate: "2017-09-04"
-endDate: "2017-12-21"
+company: "UW Medicine"
+location: "Seattle, WA"
+position: "Web Producer"
+tags: ["PHP", "Drupal", "Docker", "Zendesk"]
+startDate: "2019-07-01"
+endDate: "2020-08-01"
 ---
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget augue commodo, rutrum enim vel, varius lorem. Ut nec sem metus.</p>
+- Executes campaign requests for page production and content deployment across UW Medicine’s highly-trafficked enterprise web properties</p>
 
-* Cras laoreet, metus consectetur mollis consectetur, dui ante tempus ante, eget luctus felis odio sed leo.</p>
+* Works with the web team to  align SEO, UX, editorial, and development goals while communicating project statuses to stakeholders across multiple departments </p>
 
-* Sed tempus, ex ultrices porttitor fringilla, enim tellus dictum elit, quis viverra odio orci eu erat. Maecenas auctor ultrices ornare. Mauris consequat a urna in cursus.</p>
+* Adheres to web standards and accessibility guidelines and while acting as brand steward to guarantee consistency and compliance across all web properties</p>
 
-* Mauris hendrerit, sem sit amet dapibus ultrices, lacus quam malesuada lorem, interdum lacinia tortor augue maximus mauris.</p>
-
-* Aliquam ultrices, lectus ac semper dictum, nisi eros sollicitudin purus, nec pharetra massa diam eu libero. Integer at metus vitae urna placerat vehicula. Donec ut sagittis risus, sed mattis mi.</p>
-
-* Donec suscipit, ex vitae finibus faucibus, nisl est eleifend justo, quis porta ante massa sed arcu. Morbi dapibus, massa sit amet posuere porta, sapien tellus malesuada ipsum, et vehicula nunc diam vel lacus. Donec fringilla viverra massa vitae aliquet.</p>

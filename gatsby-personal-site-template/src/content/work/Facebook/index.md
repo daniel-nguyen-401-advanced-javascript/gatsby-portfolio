@@ -1,20 +1,14 @@
 ---
-company: "Facebook"
-location: "Toronto, ON"
-position: "Full-Stack Developer Intern"
-tags: ["React", "Redux", "Docker", "Datadog"]
-startDate: "2016-05-04"
-endDate: "2016-09-01"
+company: "UW Medicine"
+location: "Seattle, WA"
+position: "Digital Marketing & Email Specialist"
+tags: ["Marketo", "Redux", "Docker", "Datadog"]
+startDate: "2018-04-01"
+endDate: "2019-07-01"
 ---
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget augue commodo, rutrum enim vel, varius lorem. Ut nec sem metus.</p>
+- Utilized content marketing best practices to deliver consumer engagement through email marketing, social media, and paid search to grow the UW Medicine brand</p>
 
-* Cras laoreet, metus consectetur mollis consectetur, dui ante tempus ante, eget luctus felis odio sed leo.</p>
+* Balanced a user-centric approach with a data-centric approach in order to enhance and develop content marketing strategies</p>
 
-* Sed tempus, ex ultrices porttitor fringilla, enim tellus dictum elit, quis viverra odio orci eu erat. Maecenas auctor ultrices ornare. Mauris consequat a urna in cursus.</p>
 
-* Mauris hendrerit, sem sit amet dapibus ultrices, lacus quam malesuada lorem, interdum lacinia tortor augue maximus mauris.</p>
-
-* Aliquam ultrices, lectus ac semper dictum, nisi eros sollicitudin purus, nec pharetra massa diam eu libero. Integer at metus vitae urna placerat vehicula. Donec ut sagittis risus, sed mattis mi.</p>
-
-* Donec suscipit, ex vitae finibus faucibus, nisl est eleifend justo, quis porta ante massa sed arcu. Morbi dapibus, massa sit amet posuere porta, sapien tellus malesuada ipsum, et vehicula nunc diam vel lacus. Donec fringilla viverra massa vitae aliquet.</p>

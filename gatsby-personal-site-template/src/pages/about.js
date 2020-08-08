@@ -58,22 +58,15 @@ export default ({ data }) => {
               padawan
             </a>
             &nbsp;
-            <b>{occupation}</b> discovering the ways of the code. Lorem ipsum
-            dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-            veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat.
+            <b>{occupation}</b> discovering the ways of the code. I have a background in digital marketing and sales. After making great positive changes in my personal life (it's a long story), I decided to do the same for my professional life. This led me to Code Fellows where I completed their program for Full Stack Software Development in JavaScript. Since then I have been building projects and trying to learn as much as I can about code! 
           </p>
           <p className="i-5">
-            In my spare time, Lorem ipsum dolor sit amet, consectetur adipiscing
-            elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-            laboris nisi ut aliquip ex ea commodo consequat.
+            In my spare time, I enjoy jumping from sci-fi into fantasy through Magic: the Gathering. I am an avid player and am always up for a game. I also enjoy tossing the occasional weight around...just enough to earn a solid couch session. Oh, and sometimes I take photos. You can find my work on Instagram at <a href="https://www.instagram.com/dknshots/?hl=en">@dknshots</a>. 
           </p>
           <p className="i-5">
-            Check out my <Link to="/projects">projects</Link> to see what I've
-            been up to! Or check out my <Link to="/blog">blog</Link> to see
-            what's recently caught my eye!
+            Check out my <Link to="/projects">projects</Link> to see what I've been up to!{/*
+             Or check out my <Link to="/blog">blog</Link> to see
+            what's recently caught my eye! */}
           </p>
         </article>
         <article className="w-75 m-auto">
@@ -86,7 +79,7 @@ export default ({ data }) => {
                   like what you <Link to="/resume">see</Link>, let's get
                   in&nbsp;
                   <a
-                    href="mailto:red.five@rebellion.com"
+                    href="mailto:danguyenuw@gmail.com"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
